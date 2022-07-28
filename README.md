@@ -5,4 +5,4 @@ This blog is not for the faint hearted and is not intended to be a new dogmatic 
 The founder is simply sharing ideas that he feels may not be considered when it comes to film and filmmaking.
 What you do with those ideas is on you. The Film Circle is not a prescription, but an exploration.</p>
 
-<p align="center"><i>If you enjoyed thefilmcircle.com, you can support the project by sharing it and/or donating via: ewenmunro.com/donate</i></p>
+<p align="center"><i>If you enjoyed thefilmcircle.com, you can support the project by sharing it and/or donating via: <a href="https://ewenmunro.com/donate">ewenmunro.com/donate<a></i></p>
