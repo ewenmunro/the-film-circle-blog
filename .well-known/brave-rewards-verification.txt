@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: thefilmcircle.com
-Token: 2d058651d19f25f1f4ebac417cc39c643f8cc555488031d35fa56430e055dd99
