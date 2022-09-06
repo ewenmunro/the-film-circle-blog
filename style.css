@@ -163,7 +163,7 @@ body {
     float: right;
     display: flex;
     flex-direction: row;
-    text-align: left;
+    text-align: right;
 }
 
 #prev-next-link {
